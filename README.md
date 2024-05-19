@@ -1,6 +1,8 @@
 # Advanced Topics: Optical Transport Network and Zigbee
 ## Author: Qingran Shao
 
+In mobile devices, community protocols are an unavoidable topic. Existing technologies for long-distance internet include 802.11 and cellular networks; for short-distance network connections, mature protocols like Bluetooth are available. With the development of mobile internet demanding convenience, lightweight solutions, and specificity, community protocols like WDM, fiber, and Bluetooth, which are widely used, are gradually becoming less suitable for applications such as package sorting, smart homes, carrier networks, data center networks, and enterprise networks. For these reasons, more long-distance and short-distance network protocols are being continually designed and applied. Today, I will discuss OTN and Zigbee.
+
 ## introduce:
 The development of Optical Transport Network (OTN) and Zigbee technologies is driven by specific industry trends and needs. These innovations play a crucial role in addressing high-priority applications and problems within the software industry, enhancing data transmission capabilities, and supporting the growing landscape of the Internet of Things (IoT).
 
