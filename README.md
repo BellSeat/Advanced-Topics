@@ -14,3 +14,6 @@ OTN and Zigbee are pivotal in their respective domains, with OTN facilitating hi
 OTN is often referred to as a "digital wrapper" because it encapsulates each client or service transparently into a container for transport across optical networks, preserving the client's native structure, timing, and management information. This enhanced multiplexing capability allows OTN to carry different traffic types, including IP, Ethernet, storage, digital video, and SONET/SDH, over its framing structure, which is a key reason for its widespread adoption.
 
 Since its inception in 2001, OTN has evolved beyond merely being a SONET/SDH wrapper. It has been optimized to support Ethernet, today's most popular client service, ranging from 1GE to 400GE. OTN-enabled technology is foundational for next-generation optical networks, supporting flexible packet technologies that include new Ethernet interfaces, Multi-Protocol Label Switching (MPLS), Segment Routing, and Time-Sensitive Networking (TSN). OTN technology has been extensively deployed worldwide, covering a wide spectrum of applications. Hundreds of thousands of OTN ports are now in operation, carrying mission-critical traffic from the network edge to the metro and core, as well as in submarine applications.
+
+The OTN wrapper is made up of several components in a hierarchy as depicted in  Figure 1
+
