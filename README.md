@@ -98,3 +98,12 @@ Zigbee and Bluetooth each have their strengths and suitable use cases. Zigbee, w
 
 
 ## Reference 
+https://www.ieee802.org/11/
+https://ieeexplore.ieee.org/document/1016473
+https://carrier.huawei.com/en/products/fixed-network/transmission/wdm-otn
+https://www.ieee802.org/15/pub/TG4.html
+https://ncbi.nlm.nih.gov/pmc/articles/PMC4620877/
+https://www.ciena.com/insights/what-is/What-Is-WDM.html
+https://www.fireangel.co.uk/zigbee/
+https://www.cdebyte.com/news/624
+https://www.tutorialspoint.com/the-bluetooth-protocol-architecture
