@@ -73,25 +73,25 @@ Zigbee modules and chips are relatively low-cost, making them ideal for large-sc
 ### Different Use Cases of Zigbee and Bluetooth
 1. Smart Homes:
 
-#### Zigbee: Widely used in smart home applications such as lighting control, temperature monitoring, and security systems. Its low power consumption and large-scale network capability make it perfect for home automation systems with numerous long-running devices.
-#### Bluetooth: Primarily used for short-range, high-bandwidth device connections, such as audio equipment, smart locks, and short-range data transfer in smart homes.
+  #### Zigbee: Widely used in smart home applications such as lighting control, temperature monitoring, and security systems. Its low power consumption and large-scale network capability make it perfect for home automation systems with numerous long-running devices.
+  #### Bluetooth: Primarily used for short-range, high-bandwidth device connections, such as audio equipment, smart locks, and short-range data transfer in smart homes.
 
 2. Industrial Automation:
 
-#### Zigbee: Commonly used in industrial environments for monitoring and control systems, such as sensor networks, equipment status monitoring, and energy management. Its mesh networking and low power consumption are ideal for complex industrial layouts and long-running devices.
-
-#### Bluetooth: Less commonly used in industrial automation, typically employed for short-range, low-latency data transfer, such as temporary configuration and maintenance of industrial equipment.
+  #### Zigbee: Commonly used in industrial environments for monitoring and control systems, such as sensor networks, equipment status monitoring, and energy management. Its mesh networking and low power consumption are ideal for complex industrial layouts and long-running devices.
+  
+  #### Bluetooth: Less commonly used in industrial automation, typically employed for short-range, low-latency data transfer, such as temporary configuration and maintenance of industrial equipment.
 
 3. Healthcare:
 
-#### Zigbee: Suitable for remote patient monitoring systems and wireless communication between medical devices, relying on its low power consumption and stable connections to ensure long-term, fault-free operation.
-#### Bluetooth: Mainly used for portable medical devices that sync and transfer data, such as fitness trackers, heart rate monitors, and mobile health applications.
+  #### Zigbee: Suitable for remote patient monitoring systems and wireless communication between medical devices, relying on its low power consumption and stable connections to ensure long-term, fault-free operation.
+  #### Bluetooth: Mainly used for portable medical devices that sync and transfer data, such as fitness trackers, heart rate monitors, and mobile health applications.
 
 4. Smart Cities:
 
-#### Zigbee: Applied in smart city infrastructure for smart lighting, environmental monitoring, and smart parking, where wide-area coverage and low power operation are essential.
-
-#### Bluetooth: Used in smart cities mainly for near-field communication and location-based services, such as indoor navigation and personnel tracking with Bluetooth beacons.
+  #### Zigbee: Applied in smart city infrastructure for smart lighting, environmental monitoring, and smart parking, where wide-area coverage and low power operation are essential.
+  
+  #### Bluetooth: Used in smart cities mainly for near-field communication and location-based services, such as indoor navigation and personnel tracking with Bluetooth beacons.
 
 ### Summary:
 Zigbee and Bluetooth each have their strengths and suitable use cases. Zigbee, with its low power consumption, large-scale network capability, and reliability, is widely used in smart homes, industrial automation, healthcare, and smart city applications. Bluetooth is more suited for short-range, high-bandwidth, and low-latency applications, such as audio devices, portable medical equipment, and indoor navigation. Both technologies complement each other in different domains.
